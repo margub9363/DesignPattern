@@ -1,4 +1,4 @@
-package BuilderDesignPattern.com.Phone;
+package creationalDesignPattern.BuilderDesignPattern.Phone;
 
 public class PhoneBuilder {
     private String os;
